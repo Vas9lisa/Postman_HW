@@ -31,7 +31,7 @@ let item_7_type = typeof(item_7);
 // console.log("item_7_type == " + typeof item_7_type);
 
 let age_1 = 10
-let age_2 = 8
+let age_2 = 18
 let age_3 = 60
 
 if (age_1 < age_2){
