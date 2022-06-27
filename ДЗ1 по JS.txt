@@ -25,7 +25,6 @@ let item_3 = item_1 + item_2
  9. Вывести в консоль item_3.
 console.log(item_3)
 
-
  10. Создать переменную “item_4”
 let item_4
 
