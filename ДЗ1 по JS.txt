@@ -103,4 +103,4 @@ else if (age_1  > age_3){
  33. Иначе выводите “Technical work”.
 else {
     // console.log("Technical work");
-} 
+}
